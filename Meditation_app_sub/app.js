@@ -1,5 +1,3 @@
-//https://github.com/johnkomarnicki/meditation-app?ref=morioh.com&utm_source=morioh.com
-//https://morioh.com/p/ad7db801b406?f=5c21fb01c16e2556b555ab32&fbclid=IwAR3-KixGSdEC-lpPpW03BNVN5JsTOlI4F_0fnceq8xALnxkvLZwwbDcTXQg
 
 //segment 1 - user can select option for number of breaths
 const circleProgress = document.querySelector(".circle-progress");
